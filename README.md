@@ -15,6 +15,3 @@ Este es un read.me echo para practicar las diferentes **fuentes** y **tipos** en
 
 [1]: https://platzi.com/cursos/git-github/ "curso de Git y Github"
 [2]: https://platzi.com/home "Platzi"
-
-
-[========]
