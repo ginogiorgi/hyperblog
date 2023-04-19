@@ -9,7 +9,8 @@ Un blog increíble para el curso de [curso de Git y Github][1] de [Platzi][2].
 - El flujo de trabajo en *GitHub*.
 - El verdadero amor por las buenas prácticas.
 - Trucos muy locos del profesor.
-- LAs personalidades multiples de Freddy.
+- Las personalidades multiples de Freddy.
+- Creado por el increible platzi team.
 
 Este es un read.me echo para practicar las diferentes **fuentes** y **tipos** en los read.me de *GitHub*.
 
