@@ -11,6 +11,8 @@ Un blog increíble para el curso de [curso de Git y Github][1] de [Platzi][2].
 - Trucos muy locos del profesor.
 - Las personalidades multiples de Freddy.
 - Creado por el increible platzi team.
+- Incluye ejemplos en Linux, Windows y Mac.
+- Disponible para todas las edades.
 
 Este es un read.me echo para practicar las diferentes **fuentes** y **tipos** en los read.me de *GitHub*.
 
